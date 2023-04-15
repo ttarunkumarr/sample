@@ -1,30 +1,39 @@
-[
-  {
-    "title": "Oracle Integration Cloud (OIC) Developer",
-    "description": "We are looking for an OIC developer to join our team. You will work on developing integrations in Oracle Integration Cloud (OIC), configuring OIC adapters, and using Oracle Visual Builder Cloud Service (VBCS) to build applications. If you have experience with Oracle SOA Suite and REST APIs, it will be a plus. We value creativity, passion, and teamwork."
-  },
-  {
-    "title": "Oracle Visual Builder Cloud Service (VBCS) Developer",
-    "description": "We are seeking a VBCS developer to help us build modern web and mobile applications using Oracle Visual Builder Cloud Service (VBCS). You will use your skills in JavaScript, HTML, CSS, and VBCS to build responsive and engaging applications. If you have experience with REST APIs and Oracle Integration Cloud (OIC), it will be a plus. We value innovation, attention to detail, and collaboration."
-  },
-  {
-    "title": "Oracle Cloud Application Architect",
-    "description": "We are seeking an Oracle Cloud Application Architect to design and develop cloud-native applications on Oracle Cloud Infrastructure (OCI). You will have expertise in Oracle Cloud services such as Oracle Integration Cloud (OIC), Oracle Visual Builder Cloud Service (VBCS), and Oracle Functions, as well as cloud-native application design patterns and microservices architecture. We value strategic thinking, leadership, and technical excellence."
-  },
-  {
-    "title": "Oracle Integration Cloud (OIC) Solutions Architect",
-    "description": "We are seeking an OIC Solutions Architect to design and implement end-to-end integration solutions using Oracle Integration Cloud (OIC). You will have experience with system integration, API design, security, and data management, and will be familiar with DevOps principles and cloud-native development practices. If you have experience with VBCS and Oracle SOA Suite, it will be a plus. We value problem-solving, innovation, and customer focus."
-  },
-  {
-    "title": "Oracle Visual Builder Cloud Service (VBCS) UI/UX Designer",
-    "description": "We are looking for a VBCS UI/UX Designer to join our team. You will be responsible for designing and prototyping user interfaces for web and mobile applications using Oracle Visual Builder Cloud Service (VBCS) and modern front-end development technologies such as React and Angular. If you have experience with design systems and usability testing, it will be a plus. We value creativity, user empathy, and attention to detail."
-  },
-  {
-    "title": "Oracle Cloud Security Engineer",
-    "description": "We are seeking a Cloud Security Engineer to ensure the security and compliance of our Oracle Cloud applications and services. You will have experience with cloud security best practices, vulnerability management, and identity and access management in Oracle Cloud Infrastructure (OCI) and related services. If you are familiar with Oracle Integration Cloud (OIC) and Visual Builder Cloud Service (VBCS), it will be a plus. We value integrity, critical thinking, and continuous learning."
-  },
-  {
-    "title": "Oracle Cloud Technical Consultant",
-    "description": "We are seeking an Oracle Cloud Technical Consultant to provide technical expertise and guidance to our clients on Oracle Cloud services, including Oracle Integration Cloud (OIC) and Visual Builder Cloud Service (VBCS). You will have experience with cloud solution architecture, development, testing, and deployment, as well as excellent communication and problem-solving skills. We value customer satisfaction, teamwork, and commitment to quality."
-  }
-]
+{
+  "roles": [
+    {
+      "job_name": "Oracle Integration Cloud Developer",
+      "description": "Design, develop, and implement integration solutions using Oracle Integration Cloud (OIC). Collaborate with cross-functional teams to gather requirements and ensure successful delivery of projects. Configure and test integrations using OIC components such as adapters, connections, and transformations.",
+      "last_date_to_apply": "2023-05-15"
+    },
+    {
+      "job_name": "Oracle Integration Cloud Consultant",
+      "description": "Provide consulting services for Oracle Integration Cloud (OIC) implementations. Work with clients to understand their integration requirements and design solutions using OIC. Configure and test integrations, develop custom integrations using Java or Groovy, and provide guidance to clients on best practices and OIC features.",
+      "last_date_to_apply": "2023-05-31"
+    },
+    {
+      "job_name": "Oracle VBCS Developer",
+      "description": "Design, develop, and implement web and mobile applications using Oracle Visual Builder Cloud Service (VBCS). Collaborate with cross-functional teams to gather requirements and ensure successful delivery of projects. Develop custom components using JavaScript and integrate with backend services using REST APIs.",
+      "last_date_to_apply": "2023-06-15"
+    },
+    {
+      "job_name": "Oracle Integration Cloud Architect",
+      "description": "Lead the design and implementation of integration solutions using Oracle Integration Cloud (OIC). Work with clients to understand their integration requirements and design solutions that meet their business needs. Provide technical guidance and mentorship to development teams. Develop integrations using OIC components and custom code as needed.",
+      "last_date_to_apply": "2023-06-30"
+    },
+    {
+      "job_name": "Oracle VBCS Consultant",
+      "description": "Provide consulting services for Oracle Visual Builder Cloud Service (VBCS) implementations. Work with clients to understand their application development requirements and design solutions using VBCS. Develop custom components using JavaScript and integrate with backend services using REST APIs. Provide guidance on best practices and VBCS features.",
+      "last_date_to_apply": "2023-07-15"
+    },
+    {
+      "job_name": "Oracle Integration Cloud Support Engineer",
+      "description": "Provide technical support for Oracle Integration Cloud (OIC) customers. Troubleshoot issues related to integrations and work with development teams to resolve defects. Develop and maintain technical documentation and provide guidance to customers on best practices and OIC features.",
+      "last_date_to_apply": "2023-07-31"
+    },
+    {
+      "job_name": "Oracle VBCS Support Engineer",
+      "description": "Provide technical support for Oracle Visual Builder Cloud Service (VBCS) customers. Troubleshoot issues related to application development and work with development teams to resolve defects. Develop and maintain technical documentation and provide guidance to customers on best practices and VBCS features.",
+      "last_date_to_apply": "2023-08-15"
+    }
+  ]
+}
